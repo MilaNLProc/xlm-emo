@@ -14,13 +14,10 @@ XLM-EMO
         :alt: Documentation Status
 
 
-
-
 Multilingual Emotion Prediction
 
 
 * Free software: MIT license
-* Documentation: https://xlm-emo.readthedocs.io.
 
 
 Features
@@ -35,6 +32,32 @@ Features
 
     >> ["anger", "joy"]
 
+
+Models
+------
+
++-----------+---------------------------------------------+----------------------+
+| Model     | Link                                        | Macro F1 on Test Set |
++-----------+---------------------------------------------+----------------------+
+| XLM-EMO-t | https://huggingface.co/MilaNLProc/xlm-emo-t | 0.85                 |
++-----------+---------------------------------------------+----------------------+
+| XLM-EMO-b | TBD                                         | TBD                  |
++-----------+---------------------------------------------+----------------------+
+| XLM-EMO-l | TBD                                         | TBD                  |
++-----------+---------------------------------------------+----------------------+
+
+Reference
+---------
+
+.. code-block::
+
+    @inproceedings{bianchi2021feel,
+        title = {{"XLM-EMO: Multilingual Emotion Prediction in Social Media Text"}},
+        author = "Bianchi, Federico and Nozza, Debora and Hovy, Dirk",
+        booktitle = "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis",
+        year = "2022",
+        publisher = "Association for Computational Linguistics",
+}
 
 Credits
 -------
