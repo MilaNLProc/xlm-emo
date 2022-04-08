@@ -49,6 +49,8 @@ Models
 Reference
 ---------
 
+If you use this tool please cite the following paper:
+
 .. code-block::
 
     @inproceedings{bianchi2021feel,
@@ -57,7 +59,7 @@ Reference
         booktitle = "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis",
         year = "2022",
         publisher = "Association for Computational Linguistics",
-}
+    }
 
 Credits
 -------
