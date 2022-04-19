@@ -19,6 +19,11 @@ Multilingual Emotion Prediction
 
 * Free software: MIT license
 
+Installing
+----------
+
+**Important**: If you want to use CUDA you need to install the correct version of
+the CUDA systems that matches your distribution, see `PyTorch <https://pytorch.org/get-started/locally/>`__.
 
 Features
 --------
