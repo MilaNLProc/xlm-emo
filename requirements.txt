@@ -1,0 +1,8 @@
+transformers==4.18.0
+torch==1.11.0
+torchvision
+datasets
+pandas==1.4.2
+numpy==1.22.3
+
+

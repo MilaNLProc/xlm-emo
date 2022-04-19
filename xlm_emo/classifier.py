@@ -4,9 +4,7 @@ import pandas as pd
 from datasets import Dataset
 import numpy as np
 from typing import List
-import transformers
 from xlm_emo.dataset import prepare_dataset
-import datasets
 
 class EmotionClassifier:
 
