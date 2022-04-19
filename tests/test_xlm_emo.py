@@ -3,13 +3,11 @@
 """Tests for `xlm_emo` package."""
 
 
-import unittest
+import pytest
 from xlm_emo.classifier import EmotionClassifier
 
 
-class TestXlm_emo(unittest.TestCase):
-    """Tests for `xlm_emo` package."""
-
+def test_emotion_classifier():
     ec = EmotionClassifier()
 
     predictions = ec.predict(["senti testa di cazzo", "I am very happy"])
