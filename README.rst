@@ -9,10 +9,6 @@ XLM-EMO
 .. image:: https://img.shields.io/travis/MilaNLProc/xlm_emo.svg
         :target: https://travis-ci.com/MilaNLProc/xlm_emo
 
-.. image:: https://readthedocs.org/projects/xlm-emo/badge/?version=latest
-        :target: https://xlm-emo.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
 
 Multilingual Emotion Prediction
 
@@ -21,6 +17,10 @@ Multilingual Emotion Prediction
 
 Installing
 ----------
+
+.. code-block:: bash
+
+    pip install -U xlm-emo
 
 **Important**: If you want to use CUDA you need to install the correct version of
 the CUDA systems that matches your distribution, see `PyTorch <https://pytorch.org/get-started/locally/>`__.

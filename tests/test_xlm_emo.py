@@ -4,18 +4,15 @@
 
 
 import unittest
-
-from xlm_emo import xlm_emo
+from xlm_emo.classifier import EmotionClassifier
 
 
 class TestXlm_emo(unittest.TestCase):
     """Tests for `xlm_emo` package."""
 
-    def setUp(self):
-        """Set up test fixtures, if any."""
+    ec = EmotionClassifier()
 
-    def tearDown(self):
-        """Tear down test fixtures, if any."""
+    predictions = ec.predict(["senti testa di cazzo", "I am very happy"])
 
-    def test_000_something(self):
-        """Test something."""
+    assert predictions == ["anger", "joy"]
+
