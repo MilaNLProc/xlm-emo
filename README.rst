@@ -15,9 +15,10 @@ Abstract
 
 Detecting emotion in text allows social and computational scientists to study how people behave and react to online events. However, developing these tools for different languages requires data that is not always available. This paper collects the available emotion detection datasets across 19 languages. We train a multilingual emotion prediction model for social media data, XLM-EMO. The model shows competitive performance in a zero-shot setting, suggesting it is helpful in the context of low-resource languages. We release our model to the community so that interested researchers can directly use it.
 
-See the papers for additional details:
+See the paper for additional details:
 
-Bianchi, F., Nozza, & D., Hovy. "XLM-EMO: Multilingual Emotion Prediction in Social Media Text". In Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (Forthcoming). Association for Computational Linguistics, 2022. <https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-prediction>
+Bianchi, F., Nozza, & D., Hovy. "XLM-EMO: Multilingual Emotion Prediction in Social Media Text". In Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (Forthcoming). Association for Computational Linguistics, 2022. 
+`Link <https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-predictio>`__.
 
 ----------
 
