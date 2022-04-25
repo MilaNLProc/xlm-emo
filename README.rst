@@ -6,8 +6,10 @@ XLM-EMO
 .. image:: https://img.shields.io/pypi/v/xlm_emo.svg
         :target: https://pypi.python.org/pypi/xlm_emo
 
-.. image:: https://img.shields.io/travis/MilaNLProc/xlm_emo.svg
-        :target: https://travis-ci.com/MilaNLProc/xlm_emo
+.. image:: https://github.com/MilaNLProc/xlm-emo/workflows/Python%20package/badge.svg
+        :target: https://github.com/MilaNLProc/xlm-emo/actions
+
+
 
 
 Multilingual Emotion Prediction
