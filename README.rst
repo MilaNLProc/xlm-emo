@@ -19,7 +19,7 @@ Detecting emotion in text allows social and computational scientists to study ho
 
 See the paper for additional details:
 
-Bianchi, F., Nozza, & D., Hovy. "XLM-EMO: Multilingual Emotion Prediction in Social Media Text". In Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (Forthcoming). Association for Computational Linguistics, 2022. 
+Bianchi, F., Nozza, D., & Hovy, D. "XLM-EMO: Multilingual Emotion Prediction in Social Media Text". In Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (Forthcoming). Association for Computational Linguistics, 2022. 
 `Link <https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-predictio>`__.
 
 ----------
