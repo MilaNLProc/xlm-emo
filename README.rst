@@ -22,9 +22,17 @@ See the paper for additional details:
 Bianchi, F., Nozza, D., & Hovy, D. "XLM-EMO: Multilingual Emotion Prediction in Social Media Text". In Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (Forthcoming). Association for Computational Linguistics, 2022. 
 `Link <https://milanlproc.github.io/publication/2022-xlmemo-multilingual-emotion-predictio>`__.
 
-----------
 
-* Free software: MIT license
+
+
+
+License
+-------
+
+Code itself comes from HuggingFace and thus our License is an MIT license.
+
+The models are released without any restrictions but restrictions may apply on the data (which are derived from existing datasets) or Twitter (main data source). We refer users to the original licenses accompanying each dataset and Twitter regulations.
+
 
 Installing
 ----------
