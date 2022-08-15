@@ -29,10 +29,9 @@ Bianchi, F., Nozza, D., & Hovy, D. "XLM-EMO: Multilingual Emotion Prediction in 
 License
 -------
 
-Code itself comes from HuggingFace and thus our License is an MIT license.
+Code comes from HuggingFace and thus our License is an MIT license.
 
-The models are released without any restrictions but restrictions may apply on the data (which are derived from existing datasets) or Twitter (main data source). We refer users to the original licenses accompanying each dataset and Twitter regulations.
-
+For models restriction may apply on the data (which are derived from existing datasets) or Twitter (main data source). We refer users to the original licenses accompanying each dataset and Twitter regulations.
 
 Installing
 ----------
