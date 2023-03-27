@@ -3,9 +3,6 @@ XLM-EMO: Multilingual Emotion Prediction in Social Media Text
 ==============================================================
 
 
-.. image:: https://img.shields.io/pypi/v/xlm_emo.svg
-        :target: https://pypi.python.org/pypi/xlm_emo
-
 .. image:: https://github.com/MilaNLProc/xlm-emo/workflows/Python%20package/badge.svg
         :target: https://github.com/MilaNLProc/xlm-emo/actions
 
@@ -36,9 +33,13 @@ For models restrictions may apply on the data (which are derived from existing d
 Installing
 ----------
 
+git clone the package and then run 
+
 .. code-block:: bash
 
-    pip install -U xlm-emo
+    pip install -e .
+    
+inside the folder
 
 **Important**: If you want to use CUDA you need to install the correct version of
 the CUDA systems that matches your distribution, see `PyTorch <https://pytorch.org/get-started/locally/>`__.
@@ -64,10 +65,7 @@ Models
 +-----------+---------------------------------------------+----------------------+
 | XLM-EMO-T | https://huggingface.co/MilaNLProc/xlm-emo-t | 0.85                 |
 +-----------+---------------------------------------------+----------------------+
-| XLM-EMO-B | TBD                                         | TBD                  |
-+-----------+---------------------------------------------+----------------------+
-| XLM-EMO-L | TBD                                         | TBD                  |
-+-----------+---------------------------------------------+----------------------+
+
 
 Reference
 ---------
